@@ -1,0 +1,15 @@
+{
+  "name": "wp-auto-eyecatch-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "wp-env": "wp-env"
+  },
+  "volta": {
+    "node": "18.16.0"
+  },
+  "devDependencies": {
+    "@wordpress/env": "^8.1.0"
+  }
+}
